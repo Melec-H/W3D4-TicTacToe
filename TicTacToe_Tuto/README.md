@@ -1,6 +1,6 @@
 # TicTacToe
 
-Project TicTacToe with THP by Paul Broussolle
+Project TicTacToe with THP
 
 ## How to use ?
 
